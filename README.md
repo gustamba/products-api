@@ -1,4 +1,4 @@
-# Meu primeiro CRUD em Java com Spring
+# CRUD em Java com Spring de produtos
 
 Projeto de estudo desenvolvido para praticar conceitos fundamentais do ecossistema Spring Boot.
 
