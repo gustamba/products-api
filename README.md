@@ -1,4 +1,4 @@
-# CRUD em Java com Spring de produtos
+# API de Produtos
 
 Projeto de estudo desenvolvido para praticar conceitos fundamentais do ecossistema Spring Boot.
 
